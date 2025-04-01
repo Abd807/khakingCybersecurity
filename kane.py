@@ -12,3 +12,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print(add(5, 3))  # Example usage of the add function
+    print("This is a simple addition function.")
